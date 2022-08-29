@@ -14,3 +14,10 @@ background-color: black;
         text-align: center;
     }
 }
+@media (min-width:992px) {
+    body{
+
+        background-color: azure;
+    }
+    
+}
